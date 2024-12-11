@@ -62,6 +62,8 @@ The NodeJS server will run on http://localhost:9001.
 
 4. **Set Up MongoDB**: Ensure MongoDB is running locally or in a cloud instance.   
 
-### 📌 Purpose
+---
+
+## 📌 Purpose
 
 - Serves as a learning and reference project for React, NodeJS, and MongoDB.
